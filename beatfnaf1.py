@@ -436,7 +436,7 @@ if __name__ == "__main__":
 
     while True:
         time.sleep(2.0)
-        if isRunning("FiveNightsatFreddys.exe"):
+        if isRunning("FiveNightsatFreddys"):
             break
 
     # Wait 5 seconds to make sure the game is open in fullscreen
